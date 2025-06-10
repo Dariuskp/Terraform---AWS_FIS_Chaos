@@ -1,4 +1,4 @@
-Terraform AWS FIS EC2 Shutdown Chaos Experiment
+Terraform AWS FIS EC2 Chaos Experiment
 This repository contains Terraform configurations to deploy an AWS Fault Injection Service (FIS) experiment template designed to simulate an EC2 instance shutdown. This is a foundational step for practicing chaos engineering principles and testing the resilience of your applications to unexpected EC2 instance failures.
 
 ⚠️ Important Warning ⚠️
